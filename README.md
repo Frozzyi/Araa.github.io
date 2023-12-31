@@ -1,1 +1,1 @@
-BreadcrumbsFrozzyi.github.io
+Frozzyi.github.io
